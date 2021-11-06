@@ -9,6 +9,11 @@ public class bot {
         JDA jda = JDABuilder.createDefault("TOKEN").build();
         
         jda.addEventListener(new HelloEvent());
+        jda.addEventListener(new CategoryCreate());
+        jda.addEventListener(new CategoryDelete());
+        jda.addEventListener(new VoiceChCreate());
+        jda.addEventListener(new VoiceChDelete());
+        jda.addEventListener(new Calculate());
 
     }
 }
