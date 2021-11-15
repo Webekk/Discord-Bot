@@ -1,5 +1,4 @@
-# Discord-Bot
-Pierwszy Bot na Discorda stworzony dla zabawy i sprawdzenia mozliwosci JDA <br/>
+# Mrs.Rose
 
 <h1> Co to jest to JDA?</h1>
 
