@@ -1,5 +1,7 @@
 # Discord-Bot
-Pierwszy Bot na Discorda który ma wysyłać jakies suche żarty jak moja Pani od Angielskiego :D <br/>
+Pierwszy Bot na Discorda stworzony dla zabawy i sprawdzenia mozliwosci JDA <br/>
 
-Dzien 1 - nauczylem sie odpalac mojego bota,korzystac z gradle,i sprawic zeby bot odpowiedzial na moje zapytanie co jest w sumie kozackie 
+<h1> Co to jest to JDA?</h1>
 
+
+<p><b>JDA</b> jest to po prostu API wrapper dla javy. Dzieki JDA mozna w latwy sposob stworzyc wlasnego bota ktory bedzie wykonywal ciekawe scripty i przyda sie kazdemu na serwerze</p>
