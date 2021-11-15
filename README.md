@@ -1,4 +1,4 @@
-# Mrs.Rose
+# Tworzenie bota na discorda
 
 <h1> Co to jest to JDA?</h1>
 
